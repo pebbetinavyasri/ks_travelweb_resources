@@ -1,0 +1,18 @@
+ Amadeus Developers Portal (API signup & docs)
+
+ https://developers.amadeus.com/
+
+This is the main site where you register, create your app, and get your API key to start using Amadeus Flight APIs. You can also find full API documentation here. 
+
+
+ What it does
+Amadeus Flight APIs provide flight search, schedules, real-time pricing, availability, and booking used by apps like MakeMyTrip and Expedia (industry-standard GDS).
+
+ How it works (flow)
+User search → Flight Offers Search → price confirmation → Flight Create Order (booking) → booking management (PNR, cancel, view).
+
+ Schedules & data
+Supports future flight schedules and live availability in production; test environment provides cached/sample data for development.
+
+ Free tier
+Offers a free test environment and limited free monthly API calls; real-time booking beyond limits requires paid usage.
